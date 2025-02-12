@@ -99,10 +99,11 @@ Update the following environment variables in your backend `.env` file:
 - `COMMITMENT_LEVEL=`: Set the commitment level.
 - `ORIGIN_URL=`: The frontend URL for allowing CORS.
 
-## Note
-This repo includes only sniping part due to the security problem. However, you can check its full functionality in this link:
-[Solana Sniper and Meme coin Bot](http://212.193.3.242:3000)
+## Contributions
+Contributions are welcome! Feel free to open issues and submit PRs.
 
+## Note
+This repo includes only sniping part due to the security problem.
 If you have any questions or want more customized app for specific use cases, please feel free to contact me to below contacts.
 
 - E-Mail: adamglab0731.pl@gmail.com
