@@ -51,7 +51,7 @@ To use this Solana Bot Package, you will need to have a basic understanding of S
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/infinite0731/Solana-Sniper-Memecoin-Bot
+   git clone https://github.com/justshiftjk/Solana-Sniper-Memecoin-Bot
    ```
 2. **Install Dependencies**:
    ```bash
