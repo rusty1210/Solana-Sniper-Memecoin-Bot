@@ -51,7 +51,7 @@ To use this Solana Bot Package, you will need to have a basic understanding of S
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/justshiftjk/Solana-Sniper-Memecoin-Bot
+   git clone https://github.com/rusty1210/Solana-Sniper-Memecoin-Bot
    ```
 2. **Install Dependencies**:
    ```bash
@@ -106,5 +106,5 @@ Contributions are welcome! Feel free to open issues and submit PRs.
 This repo includes only sniping part due to the security problem.
 If you have any questions or want more customized app for specific use cases, please feel free to contact me to below contacts.
 
-- E-Mail: adamglab0731.pl@gmail.com
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
+- E-Mail: rusty.engineer.1210@gmail.com
+- Telegram: [@solrusty1210](https://t.me/solrusty1210)
